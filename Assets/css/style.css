@@ -6,7 +6,7 @@ header {
     background-color: #ffffff;
 }
 
-.full-navbar{
+.full-navbar {
     width: 960px;
     background-color: #ffffff;
     margin: auto; 
@@ -66,10 +66,31 @@ nav a {
     margin-right: 20px;
 }
 
+.content-wrapper1 {
+    width: 200px;
+    height: 200px;
+    position: relative;
+    margin: 20px;
+}
 
 .pic1 {
     width: 200px;
     height: 200px;
+}
+
+#name1 {
+    color: #ffffff;
+    background-color: #4aaaa5;
+    position: absolute;
+    width: 100%;
+    top: 50%
+}
+
+.content-wrapper2 {
+    width: 200px;
+    height: 200px;
+    position: relative;
+    margin: 20px;
 }
 
 .pic2 {
@@ -77,9 +98,32 @@ nav a {
     height: 200px;
 }
 
+#name2 {
+    color: #ffffff;
+    background-color: #4aaaa5;
+    position: absolute;
+    width: 100%;
+    top: 50%
+}
+
+.content-wrapper3 {
+    width: 200px;
+    height: 200px;
+    position: relative;
+    margin: 20px;
+}
+
 .pic3 {
     width: 200px;
     height: 200px;
+}
+
+#name3 {
+    color: #ffffff;
+    background-color: #4aaaa5;
+    position: absolute;
+    width: 100%;
+    top: 50%
 }
 
 .pic4 {
@@ -91,6 +135,7 @@ nav a {
     width: 200px;
     height: 200px;
 }
+
 
 
 footer {
